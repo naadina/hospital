@@ -1,0 +1,111 @@
+C:\Users\Windows\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.exe
+C:\Users\Windows\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.deps.json
+C:\Users\Windows\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.runtimeconfig.json
+C:\Users\Windows\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.dll
+C:\Users\Windows\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.pdb
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form1.resources
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form2.resources
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.csproj.GenerateResource.cache
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.AssemblyInfo.cs
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.dll
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\refint\hospital_1.dll
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.pdb
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.genruntimeconfig.cache
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\ref\hospital_1.dll
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form3.resources
+C:\Users\Windows\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form4.resources
+C:\Users\ACER\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.exe
+C:\Users\ACER\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.deps.json
+C:\Users\ACER\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.runtimeconfig.json
+C:\Users\ACER\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.dll
+C:\Users\ACER\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.pdb
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form1.resources
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form2.resources
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form3.resources
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form4.resources
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.AssemblyInfo.cs
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.dll
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\refint\hospital_1.dll
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.pdb
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.genruntimeconfig.cache
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\ref\hospital_1.dll
+C:\Users\ACER\source\repos\hospital_1\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\ACER\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.csproj.CopyComplete
+C:\Users\User\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.exe
+C:\Users\User\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.deps.json
+C:\Users\User\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.runtimeconfig.json
+C:\Users\User\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.dll
+C:\Users\User\source\repos\hospital_1\bin\Debug\net6.0-windows\hospital_1.pdb
+C:\Users\User\source\repos\hospital_1\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\User\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form1.resources
+C:\Users\User\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form2.resources
+C:\Users\User\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form3.resources
+C:\Users\User\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form4.resources
+C:\Users\User\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.AssemblyInfo.cs
+C:\Users\User\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.csproj.CopyComplete
+C:\Users\User\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.dll
+C:\Users\User\source\repos\hospital_1\obj\Debug\net6.0-windows\refint\hospital_1.dll
+C:\Users\User\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.pdb
+C:\Users\User\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.genruntimeconfig.cache
+C:\Users\User\source\repos\hospital_1\obj\Debug\net6.0-windows\ref\hospital_1.dll
+C:\Users\User\source\repos\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form5.resources
+D:\KULIAH\SEMESTER 4\Database\job12\hospital_1\bin\Debug\net6.0-windows\hospital_1.exe
+D:\KULIAH\SEMESTER 4\Database\job12\hospital_1\bin\Debug\net6.0-windows\hospital_1.deps.json
+D:\KULIAH\SEMESTER 4\Database\job12\hospital_1\bin\Debug\net6.0-windows\hospital_1.runtimeconfig.json
+D:\KULIAH\SEMESTER 4\Database\job12\hospital_1\bin\Debug\net6.0-windows\hospital_1.dll
+D:\KULIAH\SEMESTER 4\Database\job12\hospital_1\bin\Debug\net6.0-windows\hospital_1.pdb
+D:\KULIAH\SEMESTER 4\Database\job12\hospital_1\bin\Debug\net6.0-windows\MySqlConnector.dll
+D:\KULIAH\SEMESTER 4\Database\job12\hospital_1\obj\Debug\net6.0-windows\hospital_1.csproj.AssemblyReference.cache
+D:\KULIAH\SEMESTER 4\Database\job12\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form1.resources
+D:\KULIAH\SEMESTER 4\Database\job12\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form2.resources
+D:\KULIAH\SEMESTER 4\Database\job12\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form3.resources
+D:\KULIAH\SEMESTER 4\Database\job12\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form4.resources
+D:\KULIAH\SEMESTER 4\Database\job12\hospital_1\obj\Debug\net6.0-windows\hospital_1.Form5.resources
+D:\KULIAH\SEMESTER 4\Database\job12\hospital_1\obj\Debug\net6.0-windows\hospital_1.csproj.GenerateResource.cache
+D:\KULIAH\SEMESTER 4\Database\job12\hospital_1\obj\Debug\net6.0-windows\hospital_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\SEMESTER 4\Database\job12\hospital_1\obj\Debug\net6.0-windows\hospital_1.AssemblyInfoInputs.cache
+D:\KULIAH\SEMESTER 4\Database\job12\hospital_1\obj\Debug\net6.0-windows\hospital_1.AssemblyInfo.cs
+D:\KULIAH\SEMESTER 4\Database\job12\hospital_1\obj\Debug\net6.0-windows\hospital_1.csproj.CoreCompileInputs.cache
+D:\KULIAH\SEMESTER 4\Database\job12\hospital_1\obj\Debug\net6.0-windows\hospital_1.csproj.CopyComplete
+D:\KULIAH\SEMESTER 4\Database\job12\hospital_1\obj\Debug\net6.0-windows\hospital_1.dll
+D:\KULIAH\SEMESTER 4\Database\job12\hospital_1\obj\Debug\net6.0-windows\refint\hospital_1.dll
+D:\KULIAH\SEMESTER 4\Database\job12\hospital_1\obj\Debug\net6.0-windows\hospital_1.pdb
+D:\KULIAH\SEMESTER 4\Database\job12\hospital_1\obj\Debug\net6.0-windows\hospital_1.genruntimeconfig.cache
+D:\KULIAH\SEMESTER 4\Database\job12\hospital_1\obj\Debug\net6.0-windows\ref\hospital_1.dll
+E:\hospital_Vstudio-main\bin\Debug\net6.0-windows\hospital_1.exe
+E:\hospital_Vstudio-main\bin\Debug\net6.0-windows\hospital_1.deps.json
+E:\hospital_Vstudio-main\bin\Debug\net6.0-windows\hospital_1.runtimeconfig.json
+E:\hospital_Vstudio-main\bin\Debug\net6.0-windows\hospital_1.dll
+E:\hospital_Vstudio-main\bin\Debug\net6.0-windows\hospital_1.pdb
+E:\hospital_Vstudio-main\bin\Debug\net6.0-windows\MySqlConnector.dll
+E:\hospital_Vstudio-main\obj\Debug\net6.0-windows\hospital_1.csproj.AssemblyReference.cache
+E:\hospital_Vstudio-main\obj\Debug\net6.0-windows\hospital_1.Form1.resources
+E:\hospital_Vstudio-main\obj\Debug\net6.0-windows\hospital_1.Form2.resources
+E:\hospital_Vstudio-main\obj\Debug\net6.0-windows\hospital_1.Form3.resources
+E:\hospital_Vstudio-main\obj\Debug\net6.0-windows\hospital_1.Form4.resources
+E:\hospital_Vstudio-main\obj\Debug\net6.0-windows\hospital_1.Form5.resources
+E:\hospital_Vstudio-main\obj\Debug\net6.0-windows\hospital_1.csproj.GenerateResource.cache
+E:\hospital_Vstudio-main\obj\Debug\net6.0-windows\hospital_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\hospital_Vstudio-main\obj\Debug\net6.0-windows\hospital_1.AssemblyInfoInputs.cache
+E:\hospital_Vstudio-main\obj\Debug\net6.0-windows\hospital_1.AssemblyInfo.cs
+E:\hospital_Vstudio-main\obj\Debug\net6.0-windows\hospital_1.csproj.CoreCompileInputs.cache
+E:\hospital_Vstudio-main\obj\Debug\net6.0-windows\hospital_1.csproj.CopyComplete
+E:\hospital_Vstudio-main\obj\Debug\net6.0-windows\hospital_1.dll
+E:\hospital_Vstudio-main\obj\Debug\net6.0-windows\refint\hospital_1.dll
+E:\hospital_Vstudio-main\obj\Debug\net6.0-windows\hospital_1.pdb
+E:\hospital_Vstudio-main\obj\Debug\net6.0-windows\hospital_1.genruntimeconfig.cache
+E:\hospital_Vstudio-main\obj\Debug\net6.0-windows\ref\hospital_1.dll
